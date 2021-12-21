@@ -13,6 +13,6 @@
 - Add Expense 버튼클릭해도 해당 내용이 추가가 안되서 오랜시간 해맸다..
 - Date 변수이름을 Data 로 잘못 적어서 생긴 오류임을 찾아 수정완료
 - 작성목록을 하드코딩이 아닌 useState를 사용하여 '...' 를 통해 복제한 내용을 띄울 수 있게 완료
-- <img src="https://user-images.githubusercontent.com/77665102/146968837-2d11094b-f55f-440e-b059-b8614e993ba0.png" width="500" height="500" />
+<img src="https://user-images.githubusercontent.com/77665102/146968837-2d11094b-f55f-440e-b059-b8614e993ba0.png" width="500" height="500" />
 
 ----------------------------------------------
