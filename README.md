@@ -25,5 +25,5 @@
 - !로 해당 state의 값을 true, false / && 을 사용하였다.
 - Chart 를 동적으로 움직이도록 완성
 - React의 Props 값을 주고 받는 것에 대해 이해가 되가는 중이다.
-- amount 에 대한 값을 Chart 의 각 월별 값으로 props 로 받아왔다.
-  <img src="https://user-images.githubusercontent.com/77665102/147416840-6184c718-218a-40f2-a82a-42d12417e33e.png" width="500" height="500" />
+- amount 에 대한 값을 Chart 의 각 월별 값으로 props 로 받아왔다. <br>
+ <img src="https://user-images.githubusercontent.com/77665102/147416840-6184c718-218a-40f2-a82a-42d12417e33e.png" width="500" height="500" />
